@@ -10,8 +10,12 @@ Ich habe am ersten Tag des Moduls meinen Mbed Accounts erstellt. Diese ist hier 
 
 
 ## Serial Driver (K1)
+Serial Driver wurde gemmäss Anleitungg installiert
 
-### Windows
+- Laden Sie den seriellen Port-Treiber von [Arm Bed](https://os.mbed.com/) herunter .
+- Schließen Sie Ihr Arm Mbed-Gerät über USB an. Es wird als Laufwerk angezeigt.
+- Schließen Sie alle Explorer-Fenster mit dem mbed Laufwerk.
+- Führen Sie das Installationsprogramm aus. Dies kann einige Zeit dauern, oder es werden einige Warnungen "nicht signierter Treiber" angezeigt.
 
 ## Terminal-Programm (K1)
 
